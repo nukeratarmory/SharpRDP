@@ -1,7 +1,6 @@
 {
     "name": "SharpRDP",
     "version": "0.0.1",
-    "uuid": "d6e5f4a3-b2c1-4d0e-9f8a-3b4c5d6e7f8a",
     "command": "sharp-rdp",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharpRDP",
